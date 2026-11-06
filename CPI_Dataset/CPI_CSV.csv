@@ -1,0 +1,345 @@
+﻿ID,Month,Group code,Group name,Rural Index,Urban Index,Combined Index,Rural Inflation,Urban Inflation,Combined Inflation
+1,2026-01-01,1.1,Food,103.89,104.31,104.04,1.96,2.44,2.13
+2,2026-01-01,1.2,Beverages,103.65,103.1,103.41,1.71,1.37,1.56
+3,2026-01-01,1.3,Services for processing primary goods for food,106,106.72,106.21,3.22,3.91,3.42
+4,2026-01-01,2.1,Alcoholic beverages,105.81,105.31,105.65,3.78,3.89,3.82
+5,2026-01-01,2.3,Paan and tobacco,103.17,103.49,103.26,1.78,2.38,1.96
+6,2026-01-01,3.1,Clothing,107.05,105.4,106.42,3.75,2.82,3.4
+7,2026-01-01,3.2,Footwear,103.71,101.06,102.67,1.05,-1.04,0.23
+8,2026-01-01,4.1,Actual rental payments made for housing,102.62,102.28,102.36,2.18,1.86,1.93
+9,2026-01-01,4.3,"Maintenance, repair and security of the dwelling",105.13,104.63,104.95,3.23,3.15,3.2
+10,2026-01-01,4.4,Water supply and miscellaneous services relating to the dwelling,100.91,102.22,101.82,0.63,1.77,1.42
+11,2026-01-01,4.5,"Electricity, gas and other fuels",101.06,100.1,100.68,0.26,0.49,0.35
+12,2026-01-01,5.1,"Furniture, furnishings, and loose carpets",104.58,103.9,104.32,2.28,1.9,2.13
+13,2026-01-01,5.2,Household textiles,106.15,103.72,105.24,3.16,1.18,2.41
+14,2026-01-01,5.3,Household appliances,101.17,100.18,100.71,0.18,-0.65,-0.21
+15,2026-01-01,5.4,"Glassware, tableware and household utensils",105.74,104.53,105.28,3.19,2.12,2.78
+16,2026-01-01,5.5,Tools and equipment for house and garden,98.85,99.59,99.1,-1.51,-0.54,-1.19
+17,2026-01-01,5.6,Goods and services for routine household maintenance,102.68,103.25,102.94,1.46,1.89,1.66
+18,2026-01-01,6.1,Medicines and health products,104.4,104.38,104.39,2.52,2.15,2.38
+19,2026-01-01,6.2,Outpatient care services,101.96,104.03,102.8,0.89,2.57,1.57
+20,2026-01-01,6.3,Inpatient care services,103.95,104.83,104.32,2.76,3.4,3.02
+21,2026-01-01,6.4,Other health services,102.23,103,102.52,1.16,1.81,1.41
+22,2026-01-01,7.1,Purchase of vehicles,97.34,96.65,96.99,-4.32,-4.73,-4.53
+23,2026-01-01,7.2,Operation of personal transport equipment,100.03,100.05,100.04,0.11,0.12,0.11
+24,2026-01-01,7.3,Passenger transport services,103.15,103.96,103.5,1.88,2.56,2.17
+25,2026-01-01,7.4,Transport services for goods,107.51,107.67,107.61,7.34,7.57,7.48
+26,2026-01-01,8.1,Information and communication equipment,97.72,97.16,97.46,-2.18,-2.46,-2.31
+27,2026-01-01,8.3,Information and communication services,105.11,104.71,104.93,0.84,0.79,0.82
+28,2026-01-01,9.1,Recreational durables,97.97,101.25,100.27,-1.15,1.27,0.55
+29,2026-01-01,9.2,Other recreational goods,104.71,104.81,104.75,2.63,2.62,2.63
+30,2026-01-01,9.3,Garden products and pets,113.77,115.26,114.56,6.62,10.25,8.54
+31,2026-01-01,9.4,Recreational services,102.6,101.94,102.2,1.81,1.03,1.34
+32,2026-01-01,9.5,Cultural goods,102.09,103.67,102.87,0.68,1.62,1.15
+33,2026-01-01,9.6,Cultural services,103.22,104.42,103.96,2.11,2.41,2.29
+34,2026-01-01,9.7,"Newspapers, books and stationery",102.43,102.54,102.48,1.2,1.49,1.33
+35,2026-01-01,10.1,Early childhood and primary education,106.11,105.98,106.03,3.81,3.23,3.45
+36,2026-01-01,10.2,Secondary education,105.54,106.99,106.47,3.81,4.33,4.14
+37,2026-01-01,10.4,Higher education,102.2,105.74,104.49,1.5,4.72,3.59
+38,2026-01-01,10.5,Education not defined by level,103.19,103.21,103.2,2.09,2.2,2.14
+39,2026-01-01,11.1,Food and beverage serving services,104.78,106.56,105.73,1.98,3.66,2.87
+40,2026-01-01,11.2,Accommodation services,102.07,104.62,103.21,0.87,3.01,1.83
+41,2026-01-01,13.1,Personal care,104.61,105.18,104.85,2.91,3.18,3.03
+42,2026-01-01,13.2,Other personal effects,172.8,165.27,169.46,62.46,55.17,59.23
+43,2026-01-01,13.9,Other services,102.26,101.91,102.12,1.2,1.21,1.2
+44,2026-02-01,1.1,Food,103.79,104.04,103.88,3.46,3.48,3.47
+45,2026-02-01,1.2,Beverages,103.53,102.94,103.27,1.29,0.83,1.09
+46,2026-02-01,1.3,Services for processing primary goods for food,106.38,106.79,106.5,3.11,3.61,3.26
+47,2026-02-01,2.1,Alcoholic beverages,105.97,105.36,105.77,3.51,2.99,3.34
+48,2026-02-01,2.3,Paan and tobacco,104.95,105.38,105.08,3.43,4.16,3.64
+49,2026-02-01,3.1,Clothing,107.28,105.61,106.65,3.63,2.67,3.27
+50,2026-02-01,3.2,Footwear,103.65,100.99,102.61,0.62,-1.38,-0.16
+51,2026-02-01,4.1,Actual rental payments made for housing,102.8,102.48,102.55,2.2,1.95,2
+52,2026-02-01,4.3,"Maintenance, repair and security of the dwelling",105.43,104.82,105.2,3.34,3.13,3.26
+53,2026-02-01,4.4,Water supply and miscellaneous services relating to the dwelling,100.9,102.29,101.87,0.58,1.72,1.38
+54,2026-02-01,4.5,"Electricity, gas and other fuels",101.01,99.62,100.46,0.23,0.01,0.14
+55,2026-02-01,5.1,"Furniture, furnishings, and loose carpets",104.83,104.04,104.52,2.34,1.8,2.13
+56,2026-02-01,5.2,Household textiles,106.04,103.86,105.22,2.98,1.12,2.28
+57,2026-02-01,5.3,Household appliances,101.34,100.35,100.88,0.22,-0.72,-0.22
+58,2026-02-01,5.4,"Glassware, tableware and household utensils",106.15,104.73,105.61,3.33,2,2.82
+59,2026-02-01,5.5,Tools and equipment for house and garden,98.81,101.28,99.63,-1.48,1.37,-0.54
+60,2026-02-01,5.6,Goods and services for routine household maintenance,102.75,103.22,102.96,1.42,1.6,1.5
+61,2026-02-01,6.1,Medicines and health products,104.5,104.46,104.49,2.29,1.88,2.14
+62,2026-02-01,6.2,Outpatient care services,101.73,104.14,102.71,0.6,2.46,1.36
+63,2026-02-01,6.3,Inpatient care services,102.44,105,103.5,0.96,3.32,1.94
+64,2026-02-01,6.4,Other health services,102.3,103.12,102.61,1.07,1.78,1.34
+65,2026-02-01,7.1,Purchase of vehicles,97.46,96.84,97.14,-4.48,-4.8,-4.65
+66,2026-02-01,7.2,Operation of personal transport equipment,100.03,100.05,100.04,0.1,0.11,0.1
+67,2026-02-01,7.3,Passenger transport services,103.18,104.1,103.57,1.41,2.21,1.75
+68,2026-02-01,7.4,Transport services for goods,107.56,107.7,107.65,7.38,7.57,7.49
+69,2026-02-01,8.1,Information and communication equipment,98.1,97.29,97.73,-1.67,-2.2,-1.91
+70,2026-02-01,8.3,Information and communication services,105.14,104.78,104.98,0.84,0.82,0.83
+71,2026-02-01,9.1,Recreational durables,98.79,101.11,100.42,-0.5,0.77,0.4
+72,2026-02-01,9.2,Other recreational goods,104.89,104.98,104.93,2.56,2.5,2.54
+73,2026-02-01,9.3,Garden products and pets,114.97,115.97,115.51,6.15,9.65,8
+74,2026-02-01,9.4,Recreational services,102.68,102,102.27,1.52,1.08,1.26
+75,2026-02-01,9.5,Cultural goods,102.41,104.01,103.21,1.04,1.71,1.37
+76,2026-02-01,9.6,Cultural services,103.32,103.77,103.59,1.86,1.39,1.57
+77,2026-02-01,9.7,"Newspapers, books and stationery",102.56,102.63,102.59,1.28,1.56,1.41
+78,2026-02-01,10.1,Early childhood and primary education,106.14,106,106.05,3.72,3.25,3.43
+79,2026-02-01,10.2,Secondary education,105.44,107.03,106.46,3.52,4.41,4.09
+80,2026-02-01,10.4,Higher education,102.19,105.75,104.49,1.5,4.72,3.59
+81,2026-02-01,10.5,Education not defined by level,103.27,103.31,103.29,2.13,2.15,2.14
+82,2026-02-01,11.1,Food and beverage serving services,105.09,106.76,105.97,2.03,3.36,2.73
+83,2026-02-01,11.2,Accommodation services,102.21,104.62,103.29,0.97,2.45,1.64
+84,2026-02-01,13.1,Personal care,104.72,105.27,104.96,2.76,2.97,2.85
+85,2026-02-01,13.2,Other personal effects,180.43,169.83,175.74,65.32,55.14,60.8
+86,2026-02-01,13.9,Other services,102.51,101.99,102.3,1.35,1.16,1.28
+87,2026-03-01,1.1,Food,104.01,104.38,104.14,3.96,3.71,3.87
+88,2026-03-01,1.2,Beverages,103.47,103.11,103.31,0.82,0.63,0.74
+89,2026-03-01,1.3,Services for processing primary goods for food,106.55,106.95,106.67,2.88,3.53,3.07
+90,2026-03-01,2.1,Alcoholic beverages,106.07,105.39,105.85,3.37,2.79,3.18
+91,2026-03-01,2.3,Paan and tobacco,106.5,107.47,106.78,4.84,6.14,5.22
+92,2026-03-01,3.1,Clothing,107.63,105.84,106.95,3.59,2.61,3.22
+93,2026-03-01,3.2,Footwear,103.78,101.12,102.74,0.41,-1.43,-0.31
+94,2026-03-01,4.1,Actual rental payments made for housing,103.1,102.67,102.77,2.36,1.9,2
+95,2026-03-01,4.3,"Maintenance, repair and security of the dwelling",105.68,104.99,105.43,3.3,3.07,3.22
+96,2026-03-01,4.4,Water supply and miscellaneous services relating to the dwelling,100.94,102.33,101.91,0.57,1.64,1.31
+97,2026-03-01,4.5,"Electricity, gas and other fuels",102.49,101.14,101.96,1.73,1.53,1.65
+98,2026-03-01,5.1,"Furniture, furnishings, and loose carpets",105.23,104.3,104.88,2.47,1.84,2.23
+99,2026-03-01,5.2,Household textiles,106.15,103.97,105.33,2.9,0.99,2.18
+100,2026-03-01,5.3,Household appliances,101.95,100.75,101.39,0.43,-0.69,-0.09
+101,2026-03-01,5.4,"Glassware, tableware and household utensils",106.59,105.1,106.02,3.48,2.06,2.94
+102,2026-03-01,5.5,Tools and equipment for house and garden,98.67,99.17,98.83,-1.85,-0.39,-1.37
+103,2026-03-01,5.6,Goods and services for routine household maintenance,102.94,103.36,103.13,1.45,1.54,1.49
+104,2026-03-01,6.1,Medicines and health products,104.65,104.58,104.62,2.12,1.62,1.93
+105,2026-03-01,6.2,Outpatient care services,101.8,104.24,102.79,0.68,2.42,1.39
+106,2026-03-01,6.3,Inpatient care services,102.42,105.23,103.59,0.7,3.32,1.79
+107,2026-03-01,6.4,Other health services,102.35,103.19,102.67,1.01,1.63,1.24
+108,2026-03-01,7.1,Purchase of vehicles,97.56,96.89,97.22,-4.56,-4.91,-4.74
+109,2026-03-01,7.2,Operation of personal transport equipment,100.04,100.06,100.05,0.1,0.11,0.1
+110,2026-03-01,7.3,Passenger transport services,103.34,104.12,103.67,1.63,2.44,1.98
+111,2026-03-01,7.4,Transport services for goods,107.63,107.76,107.71,7.43,7.62,7.55
+112,2026-03-01,8.1,Information and communication equipment,98.4,97.56,98.01,-1.19,-1.89,-1.51
+113,2026-03-01,8.3,Information and communication services,105.18,104.78,105.01,0.85,0.78,0.82
+114,2026-03-01,9.1,Recreational durables,98.88,100.79,100.22,-0.41,0.49,0.22
+115,2026-03-01,9.2,Other recreational goods,105.18,105.13,105.16,2.53,2.35,2.46
+116,2026-03-01,9.3,Garden products and pets,114.31,114.15,114.22,7.6,9.25,8.47
+117,2026-03-01,9.4,Recreational services,102.84,102.07,102.38,1.57,1.35,1.44
+118,2026-03-01,9.5,Cultural goods,102.47,104.38,103.42,1.3,1.74,1.52
+119,2026-03-01,9.6,Cultural services,103.43,104.38,104.01,1.8,2.02,1.93
+120,2026-03-01,9.7,"Newspapers, books and stationery",102.54,102.65,102.59,1.18,1.54,1.34
+121,2026-03-01,10.1,Early childhood and primary education,106.17,106.04,106.09,3.74,3.2,3.4
+122,2026-03-01,10.2,Secondary education,105.49,107.18,106.56,3.44,4.43,4.07
+123,2026-03-01,10.4,Higher education,102.21,105.87,104.58,1.56,4.82,3.67
+124,2026-03-01,10.5,Education not defined by level,103.21,103.44,103.32,1.9,2.14,2.02
+125,2026-03-01,11.1,Food and beverage serving services,105.54,107.07,106.36,2.37,3.35,2.89
+126,2026-03-01,11.2,Accommodation services,102.27,104.7,103.36,0.82,2.48,1.56
+127,2026-03-01,13.1,Personal care,104.86,105.39,105.09,2.65,2.78,2.7
+128,2026-03-01,13.2,Other personal effects,178.8,168.47,174.23,61.37,52.09,57.26
+129,2026-03-01,13.9,Other services,102.87,102.15,102.59,1.54,1.26,1.43
+130,2026-04-01,1.1,Food,104.17,104.78,104.39,4.26,4.1,4.2
+131,2026-04-01,1.2,Beverages,103.56,103.12,103.36,0.62,0.29,0.48
+132,2026-04-01,1.3,Services for processing primary goods for food,106.96,107.35,107.07,3.09,3.55,3.23
+133,2026-04-01,2.1,Alcoholic beverages,106.71,105.82,106.42,3.46,2.89,3.27
+134,2026-04-01,2.3,Paan and tobacco,107.66,108.85,108.01,5.72,7.28,6.18
+135,2026-04-01,3.1,Clothing,108.14,106.2,107.4,3.66,2.58,3.25
+136,2026-04-01,3.2,Footwear,104.3,101.44,103.17,0.65,-1.34,-0.12
+137,2026-04-01,4.1,Actual rental payments made for housing,103.35,102.88,102.99,2.45,1.92,2.04
+138,2026-04-01,4.3,"Maintenance, repair and security of the dwelling",106.14,105.31,105.83,3.45,3,3.28
+139,2026-04-01,4.4,Water supply and miscellaneous services relating to the dwelling,101.56,102.43,102.17,1.1,1.54,1.4
+140,2026-04-01,4.5,"Electricity, gas and other fuels",102.48,100.98,101.89,0.88,0.41,0.69
+141,2026-04-01,5.1,"Furniture, furnishings, and loose carpets",105.87,104.86,105.48,2.75,2.17,2.53
+142,2026-04-01,5.2,Household textiles,106.49,104.34,105.68,3.01,1.07,2.28
+143,2026-04-01,5.3,Household appliances,103.07,101.5,102.34,1.15,-0.22,0.51
+144,2026-04-01,5.4,"Glassware, tableware and household utensils",107.61,105.73,106.89,4.06,2.47,3.46
+145,2026-04-01,5.5,Tools and equipment for house and garden,98.67,99.47,98.94,-1.6,0.02,-1.07
+146,2026-04-01,5.6,Goods and services for routine household maintenance,103.17,103.57,103.35,1.5,1.51,1.5
+147,2026-04-01,6.1,Medicines and health products,104.8,104.67,104.75,1.98,1.4,1.76
+148,2026-04-01,6.2,Outpatient care services,101.88,104.39,102.9,0.64,2.39,1.36
+149,2026-04-01,6.3,Inpatient care services,102.72,105.45,103.86,0.87,3.22,1.85
+150,2026-04-01,6.4,Other health services,102.49,103.36,102.82,1.02,1.62,1.25
+151,2026-04-01,7.1,Purchase of vehicles,97.89,97.07,97.47,-4.66,-4.96,-4.81
+152,2026-04-01,7.2,Operation of personal transport equipment,100.08,100.08,100.08,0.13,0.12,0.12
+153,2026-04-01,7.3,Passenger transport services,103.54,104.29,103.86,1.64,2.31,1.92
+154,2026-04-01,7.4,Transport services for goods,107.71,107.81,107.77,7.5,7.66,7.6
+155,2026-04-01,8.1,Information and communication equipment,99.23,98.22,98.77,-0.25,-1.14,-0.66
+156,2026-04-01,8.3,Information and communication services,105.21,104.79,105.03,0.86,0.75,0.81
+157,2026-04-01,9.1,Recreational durables,98.97,100.68,100.17,0.5,0.15,0.25
+158,2026-04-01,9.2,Other recreational goods,105.62,105.58,105.61,2.75,2.54,2.67
+159,2026-04-01,9.3,Garden products and pets,111.61,110.72,111.14,6.46,5.43,5.9
+160,2026-04-01,9.4,Recreational services,105.94,102.11,103.64,4.26,1.09,2.36
+161,2026-04-01,9.5,Cultural goods,102.58,104.68,103.62,1.39,2.01,1.7
+162,2026-04-01,9.6,Cultural services,103.85,104.3,104.13,2.01,1.46,1.67
+163,2026-04-01,9.7,"Newspapers, books and stationery",102.68,102.67,102.68,1.14,1.33,1.23
+164,2026-04-01,10.1,Early childhood and primary education,106.9,106.82,106.85,3.81,3.01,3.31
+165,2026-04-01,10.2,Secondary education,106.14,107.69,107.13,3.39,4.17,3.89
+166,2026-04-01,10.4,Higher education,102.45,105.98,104.74,1.61,4.85,3.71
+167,2026-04-01,10.5,Education not defined by level,103.31,103.57,103.44,1.66,1.55,1.61
+168,2026-04-01,11.1,Food and beverage serving services,107.31,108.61,108,3.86,4.52,4.21
+169,2026-04-01,11.2,Accommodation services,102.5,104.79,103.53,1.13,2.26,1.64
+170,2026-04-01,13.1,Personal care,105.02,105.55,105.25,2.53,2.64,2.58
+171,2026-04-01,13.2,Other personal effects,178.1,167.5,173.4,57.26,48.98,53.61
+172,2026-04-01,13.9,Other services,103.02,102.23,102.71,1.57,1.1,1.39
+173,2026-05-01,1.1,Food,105.07,105.83,105.35,4.85,4.66,4.78
+174,2026-05-01,1.2,Beverages,103.56,103.15,103.38,0.36,0.05,0.23
+175,2026-05-01,1.3,Services for processing primary goods for food,107.45,107.63,107.5,3.17,3.34,3.22
+176,2026-05-01,2.1,Alcoholic beverages,107.11,106.01,106.75,3.11,2.64,2.96
+177,2026-05-01,2.3,Paan and tobacco,108.11,110.02,108.67,5.96,8.22,6.62
+178,2026-05-01,3.1,Clothing,108.82,106.62,107.98,3.87,2.68,3.42
+179,2026-05-01,3.2,Footwear,104.94,101.84,103.72,0.95,-1.18,0.12
+180,2026-05-01,4.1,Actual rental payments made for housing,103.58,103.07,103.19,2.56,1.89,2.04
+181,2026-05-01,4.3,"Maintenance, repair and security of the dwelling",106.5,105.58,106.16,3.43,2.37,3.04
+182,2026-05-01,4.4,Water supply and miscellaneous services relating to the dwelling,101.6,102.46,102.2,1,1.42,1.29
+183,2026-05-01,4.5,"Electricity, gas and other fuels",102.97,101.24,102.29,1.19,0.23,0.81
+184,2026-05-01,5.1,"Furniture, furnishings, and loose carpets",106.62,105.4,106.15,3.16,2.43,2.89
+185,2026-05-01,5.2,Household textiles,106.95,104.73,106.12,3.26,1.19,2.48
+186,2026-05-01,5.3,Household appliances,104.18,102.17,103.25,1.83,0.09,1.02
+187,2026-05-01,5.4,"Glassware, tableware and household utensils",108.86,106.46,107.94,4.91,2.9,4.15
+188,2026-05-01,5.5,Tools and equipment for house and garden,98.69,99.05,98.81,-1.39,-0.13,-0.98
+189,2026-05-01,5.6,Goods and services for routine household maintenance,103.47,103.83,103.63,1.65,1.56,1.61
+190,2026-05-01,6.1,Medicines and health products,104.91,104.79,104.87,1.77,1.15,1.54
+191,2026-05-01,6.2,Outpatient care services,102.1,104.59,103.11,0.73,2.39,1.41
+192,2026-05-01,6.3,Inpatient care services,102.98,105.65,104.09,0.85,2.95,1.73
+193,2026-05-01,6.4,Other health services,102.65,103.46,102.95,0.98,1.45,1.16
+194,2026-05-01,7.1,Purchase of vehicles,98.29,97.32,97.8,-4.6,-4.97,-4.79
+195,2026-05-01,7.2,Operation of personal transport equipment,103.04,103.04,103.04,3.07,3.05,3.06
+196,2026-05-01,7.3,Passenger transport services,104.12,104.7,104.36,2.07,2.51,2.25
+197,2026-05-01,7.4,Transport services for goods,107.73,107.89,107.83,7.48,7.74,7.63
+198,2026-05-01,8.1,Information and communication equipment,99.94,99.03,99.52,0.53,-0.12,0.23
+199,2026-05-01,8.3,Information and communication services,105.24,104.81,105.05,0.32,0.31,0.32
+200,2026-05-01,9.1,Recreational durables,99.02,100.67,100.17,-0.49,-0.15,-0.25
+201,2026-05-01,9.2,Other recreational goods,106.17,106.1,106.14,3.02,2.69,2.88
+202,2026-05-01,9.3,Garden products and pets,110.73,109.42,110.03,5.18,4.19,4.65
+203,2026-05-01,9.4,Recreational services,106.3,102.11,103.78,4.55,0.91,2.37
+204,2026-05-01,9.5,Cultural goods,102.78,105.12,103.94,1.52,2.04,1.78
+205,2026-05-01,9.6,Cultural services,104.3,104.81,104.61,2.21,2.03,2.1
+206,2026-05-01,9.7,"Newspapers, books and stationery",102.78,102.75,102.77,0.95,1.26,1.09
+207,2026-05-01,10.1,Early childhood and primary education,107.26,107.21,107.23,3.69,2.8,3.13
+208,2026-05-01,10.2,Secondary education,106.46,107.94,107.4,3.28,3.83,3.63
+209,2026-05-01,10.4,Higher education,102.57,106.05,104.82,1.56,4.77,3.64
+210,2026-05-01,10.5,Education not defined by level,103.43,103.84,103.63,1.36,1.65,1.5
+211,2026-05-01,11.1,Food and beverage serving services,109.22,110.59,109.95,5.5,6.01,5.77
+212,2026-05-01,11.2,Accommodation services,102.8,105.39,103.96,1.02,2.65,1.76
+213,2026-05-01,13.1,Personal care,105.23,105.76,105.46,2.39,2.5,2.44
+214,2026-05-01,13.2,Other personal effects,183.79,171.46,178.33,60.78,50.74,56.35
+215,2026-05-01,13.9,Other services,103.2,102.34,102.86,1.63,1.08,1.41
+216,2026-06-01,1.1,Food,106.82,107.72,107.15,5.45,5.09,5.32
+217,2026-06-01,1.2,Beverages,103.72,103.3,103.54,0.25,0.01,0.15
+218,2026-06-01,1.3,Services for processing primary goods for food,108.01,108.07,108.02,3.4,3.24,3.35
+219,2026-06-01,2.1,Alcoholic beverages,107.24,105.97,106.83,2.83,2.32,2.67
+220,2026-06-01,2.3,Paan and tobacco,108.45,110.31,108.99,6.24,8.48,6.89
+221,2026-06-01,3.1,Clothing,109.42,107.06,108.53,4.12,2.84,3.64
+222,2026-06-01,3.2,Footwear,105.71,102.29,104.37,1.48,-0.93,0.54
+223,2026-06-01,4.1,Actual rental payments made for housing,103.78,103.21,103.34,2.43,1.87,1.99
+224,2026-06-01,4.3,"Maintenance, repair and security of the dwelling",106.95,105.92,106.57,3.53,2.71,3.23
+225,2026-06-01,4.4,Water supply and miscellaneous services relating to the dwelling,101.91,102.82,102.54,1.08,1.38,1.29
+226,2026-06-01,4.5,"Electricity, gas and other fuels",104.02,102.27,103.33,2.17,1.09,1.75
+227,2026-06-01,5.1,"Furniture, furnishings, and loose carpets",107.36,105.97,106.83,3.59,2.76,3.27
+228,2026-06-01,5.2,Household textiles,107.36,105.12,106.52,3.43,1.57,2.73
+229,2026-06-01,5.3,Household appliances,105.03,102.82,104,2.41,0.61,1.57
+230,2026-06-01,5.4,"Glassware, tableware and household utensils",109.74,107.3,108.81,5.44,3.5,4.7
+231,2026-06-01,5.5,Tools and equipment for house and garden,98.94,99.32,99.07,-1.34,0.15,-0.85
+232,2026-06-01,5.6,Goods and services for routine household maintenance,103.78,104.21,103.97,1.82,1.71,1.77
+233,2026-06-01,6.1,Medicines and health products,105.14,104.93,105.06,1.66,0.95,1.39
+234,2026-06-01,6.2,Outpatient care services,102.38,104.84,103.38,0.87,2.48,1.53
+235,2026-06-01,6.3,Inpatient care services,103.37,105.94,104.44,1.03,2.61,1.69
+236,2026-06-01,6.4,Other health services,102.75,103.66,103.09,0.98,1.57,1.21
+237,2026-06-01,7.1,Purchase of vehicles,98.78,97.65,98.21,-4.38,-4.8,-4.59
+238,2026-06-01,7.2,Operation of personal transport equipment,107.35,107.4,107.37,7.34,7.37,7.35
+239,2026-06-01,7.3,Passenger transport services,104.86,105.21,105.01,2.49,2.76,2.6
+240,2026-06-01,7.4,Transport services for goods,107.77,108.01,107.91,7.5,7.84,7.7
+241,2026-06-01,8.1,Information and communication equipment,100.72,99.67,100.24,1.42,0.3,0.91
+242,2026-06-01,8.3,Information and communication services,105.28,104.84,105.09,0.32,0.28,0.31
+243,2026-06-01,9.1,Recreational durables,97.37,101.08,99.97,-3.03,0.26,-0.72
+244,2026-06-01,9.2,Other recreational goods,106.64,106.48,106.57,3.23,2.72,3.02
+245,2026-06-01,9.3,Garden products and pets,111.22,109.6,110.35,3.55,3.96,3.76
+246,2026-06-01,9.4,Recreational services,106.43,102.15,103.86,4.62,0.85,2.36
+247,2026-06-01,9.5,Cultural goods,103.19,105.58,104.38,1.83,2.2,2.02
+248,2026-06-01,9.6,Cultural services,104.66,104.87,104.79,2.5,1.56,1.92
+249,2026-06-01,9.7,"Newspapers, books and stationery",102.88,102.87,102.88,0.83,0.84,0.84
+250,2026-06-01,10.1,Early childhood and primary education,108.1,109.34,108.87,3.49,3.9,3.75
+251,2026-06-01,10.2,Secondary education,107.46,109.83,108.97,3.27,3.85,3.64
+252,2026-06-01,10.4,Higher education,102.96,107.96,106.2,1.65,5.25,3.99
+253,2026-06-01,10.5,Education not defined by level,103.56,104.14,103.84,1.28,1.74,1.51
+254,2026-06-01,11.1,Food and beverage serving services,110.79,112.14,111.5,6.78,7.07,6.94
+255,2026-06-01,11.2,Accommodation services,103.23,105.88,104.42,1.38,3.09,2.15
+256,2026-06-01,13.1,Personal care,105.45,106.03,105.7,2.29,2.38,2.33
+257,2026-06-01,13.2,Other personal effects,179.81,168.3,174.72,54.19,45.07,50.17
+258,2026-06-01,13.9,Other services,103.64,102.49,103.19,2.01,1.11,1.66
+259,2026-07-01,1.1,Food,109.21,109.7,109.39,5.79,5.05,5.52
+260,2026-07-01,1.2,Beverages,103.85,103.42,103.66,0.13,-0.08,0.04
+261,2026-07-01,1.3,Services for processing primary goods for food,108.42,108.78,108.52,3.5,3.5,3.5
+262,2026-07-01,2.1,Alcoholic beverages,107.29,106.05,106.89,2.5,2.03,2.35
+263,2026-07-01,2.3,Paan and tobacco,108.78,110.88,109.39,6.43,8.81,7.12
+264,2026-07-01,3.1,Clothing,109.95,107.47,109.01,4.29,2.92,3.78
+265,2026-07-01,3.2,Footwear,106.33,102.61,104.87,1.8,-0.88,0.75
+266,2026-07-01,4.1,Actual rental payments made for housing,104.08,103.5,103.63,2.61,1.96,2.11
+267,2026-07-01,4.3,"Maintenance, repair and security of the dwelling",107.31,106.62,107.06,3.54,3.18,3.4
+268,2026-07-01,4.4,Water supply and miscellaneous services relating to the dwelling,102.02,102.88,102.62,1.09,1.23,1.18
+269,2026-07-01,4.5,"Electricity, gas and other fuels",104.43,102.36,103.61,2.14,1.85,2.02
+270,2026-07-01,5.1,"Furniture, furnishings, and loose carpets",107.95,106.48,107.38,3.92,2.97,3.56
+271,2026-07-01,5.2,Household textiles,107.9,105.44,106.98,3.69,1.61,2.91
+272,2026-07-01,5.3,Household appliances,105.66,103.26,104.54,2.94,0.96,2.02
+273,2026-07-01,5.4,"Glassware, tableware and household utensils",110.51,107.87,109.5,5.82,3.7,5.01
+274,2026-07-01,5.5,Tools and equipment for house and garden,98.98,99.35,99.1,-1.3,0.35,-0.76
+275,2026-07-01,5.6,Goods and services for routine household maintenance,104.1,104.48,104.27,1.94,1.77,1.87
+276,2026-07-01,6.1,Medicines and health products,105.35,105.16,105.28,1.51,0.86,1.26
+277,2026-07-01,6.2,Outpatient care services,102.61,105.21,103.67,1,2.42,1.58
+278,2026-07-01,6.3,Inpatient care services,103.59,106.21,104.68,0.93,2.46,1.57
+279,2026-07-01,6.4,Other health services,102.91,103.98,103.31,1.02,1.63,1.25
+280,2026-07-01,7.1,Purchase of vehicles,99.17,97.96,98.56,-4.3,-4.45,-4.37
+281,2026-07-01,7.2,Operation of personal transport equipment,107.39,107.43,107.41,7.35,7.37,7.36
+282,2026-07-01,7.3,Passenger transport services,105.24,105.6,105.39,2.81,3.01,2.9
+283,2026-07-01,7.4,Transport services for goods,107.83,108.13,108.01,7.55,7.91,7.77
+284,2026-07-01,8.1,Information and communication equipment,101.74,100.51,101.17,2.51,1.08,1.86
+285,2026-07-01,8.3,Information and communication services,105.3,104.89,105.12,0.31,0.29,0.3
+286,2026-07-01,9.1,Recreational durables,97.97,101.31,100.31,-2.39,-0.4,-0.99
+287,2026-07-01,9.2,Other recreational goods,107.07,106.9,107,3.32,2.77,3.09
+288,2026-07-01,9.3,Garden products and pets,110.99,109.76,110.33,1.82,2.87,2.37
+289,2026-07-01,9.4,Recreational services,106.52,102.28,103.97,4.65,0.9,2.4
+290,2026-07-01,9.5,Cultural goods,103.73,105.98,104.85,2.2,2.4,2.3
+291,2026-07-01,9.6,Cultural services,104.95,105.42,105.24,2.72,2.11,2.35
+292,2026-07-01,9.7,"Newspapers, books and stationery",103.1,102.68,102.91,0.97,0.58,0.79
+293,2026-07-01,10.1,Early childhood and primary education,109.56,110.87,110.37,3.71,4.58,4.25
+294,2026-07-01,10.2,Secondary education,108.88,111.35,110.46,3.85,4.59,4.33
+295,2026-07-01,10.4,Higher education,103.28,108.22,106.48,1.31,4.71,3.52
+296,2026-07-01,10.5,Education not defined by level,103.75,104.31,104.03,1.29,1.75,1.52
+297,2026-07-01,11.1,Food and beverage serving services,112.09,113.27,112.72,7.8,7.71,7.75
+298,2026-07-01,11.2,Accommodation services,103.91,106.02,104.86,1.95,2.8,2.33
+299,2026-07-01,13.1,Personal care,105.75,106.29,105.98,2.25,2.22,2.24
+300,2026-07-01,13.2,Other personal effects,174.11,164.07,169.66,46.57,39.69,43.54
+301,2026-07-01,13.9,Other services,103.88,102.74,103.43,2.09,1.24,1.76
+302,2026-08-01,1.1,Food,110.7,110.72,110.71,6.13,5.64,5.95
+303,2026-08-01,1.2,Beverages,104.05,103.59,103.85,0.21,-0.04,0.1
+304,2026-08-01,1.3,Services for processing primary goods for food,108.74,109.53,108.97,3.5,3.54,3.51
+305,2026-08-01,2.1,Alcoholic beverages,107.43,106.15,107.01,2.13,1.63,1.97
+306,2026-08-01,2.3,Paan and tobacco,109.14,111.32,109.78,6.67,8.96,7.34
+307,2026-08-01,3.1,Clothing,110.48,107.85,109.48,4.45,3.07,3.93
+308,2026-08-01,3.2,Footwear,106.99,102.92,105.4,2.26,-0.65,1.12
+309,2026-08-01,4.1,Actual rental payments made for housing,104.41,103.78,103.92,2.76,2.13,2.27
+310,2026-08-01,4.3,"Maintenance, repair and security of the dwelling",107.81,107.86,107.83,3.78,3.73,3.77
+311,2026-08-01,4.4,Water supply and miscellaneous services relating to the dwelling,102.12,103.58,103.13,1.09,1.78,1.57
+312,2026-08-01,4.5,"Electricity, gas and other fuels",104.78,102.5,103.88,3.59,2.31,3.09
+313,2026-08-01,5.1,"Furniture, furnishings, and loose carpets",108.53,107.09,107.98,4.27,3.45,3.96
+314,2026-08-01,5.2,Household textiles,108.48,105.91,107.51,3.99,1.88,3.2
+315,2026-08-01,5.3,Household appliances,106.18,103.63,104.99,3.45,1.45,2.52
+316,2026-08-01,5.4,"Glassware, tableware and household utensils",111.35,108.49,110.26,6.24,4.05,5.4
+317,2026-08-01,5.5,Tools and equipment for house and garden,98.99,99.64,99.2,-1.3,0.85,-0.59
+318,2026-08-01,5.6,Goods and services for routine household maintenance,104.49,104.75,104.61,2.1,1.91,2.01
+319,2026-08-01,6.1,Medicines and health products,105.59,105.42,105.52,1.44,0.78,1.19
+320,2026-08-01,6.2,Outpatient care services,102.87,105.55,103.96,1.25,2.48,1.75
+321,2026-08-01,6.3,Inpatient care services,103.84,106.48,104.94,0.86,2.45,1.53
+322,2026-08-01,6.4,Other health services,103.11,104.2,103.52,1.18,1.71,1.38
+323,2026-08-01,7.1,Purchase of vehicles,99.48,98.28,98.87,-4.19,-4.56,-4.38
+324,2026-08-01,7.2,Operation of personal transport equipment,107.43,107.49,107.46,7.38,7.43,7.4
+325,2026-08-01,7.3,Passenger transport services,106.05,106.1,106.07,3.38,3.41,3.39
+326,2026-08-01,7.4,Transport services for goods,114.76,115.04,114.93,14.45,14.77,14.64
+327,2026-08-01,8.1,Information and communication equipment,102.71,101.6,102.2,3.53,2.27,2.95
+328,2026-08-01,8.3,Information and communication services,107,106.28,106.69,1.89,1.59,1.76
+329,2026-08-01,9.1,Recreational durables,98.78,101,100.34,-0.81,-1.43,-1.25
+330,2026-08-01,9.2,Other recreational goods,107.73,107.41,107.6,3.74,2.9,3.39
+331,2026-08-01,9.3,Garden products and pets,113.65,112.96,113.28,1.91,2.32,2.12
+332,2026-08-01,9.4,Recreational services,106.94,103.12,104.65,5.05,1.64,3.01
+333,2026-08-01,9.5,Cultural goods,104.53,105.87,105.2,2.83,2.05,2.44
+334,2026-08-01,9.6,Cultural services,105.14,105.84,105.57,2.69,2.1,2.33
+335,2026-08-01,9.7,"Newspapers, books and stationery",103.15,102.71,102.95,0.96,0.53,0.77
+336,2026-08-01,10.1,Early childhood and primary education,110.03,111.29,110.81,3.86,4.7,4.39
+337,2026-08-01,10.2,Secondary education,109.29,111.66,110.8,3.81,4.58,4.3
+338,2026-08-01,10.4,Higher education,103.42,108.44,106.67,1.24,4.91,3.63
+339,2026-08-01,10.5,Education not defined by level,103.84,104.52,104.17,1.27,1.91,1.58
+340,2026-08-01,11.1,Food and beverage serving services,113.2,114.06,113.66,8.59,8.25,8.41
+341,2026-08-01,11.2,Accommodation services,103.97,106.22,104.98,1.79,2.14,1.95
+342,2026-08-01,13.1,Personal care,106.06,106.57,106.28,2.23,2.1,2.17
+343,2026-08-01,13.2,Other personal effects,178.41,168.42,173.99,47.52,40.8,44.56
+344,2026-08-01,13.9,Other services,104.19,102.88,103.67,2.28,1.16,1.84
