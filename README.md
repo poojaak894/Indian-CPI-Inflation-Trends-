@@ -2,12 +2,14 @@
 **Project Overview**
 
 This project analyses Consumer Price Index (CPI) trends over eight months, from January to August 2026. It examines increases and decreases in CPI indices across groups, compares Rural and Urban inflation, and identifies groups with the highest and lowest average inflation rates.
+
 **Project Objectives**
 
 - Analyse monthly changes in the CPI Index across Rural, Urban, and Combined areas.
 - Examine monthly inflation trends across CPI groups in Rural, Urban, and Combined areas.
 - Compare Rural and Urban inflation differences across groups and months.
 - Identify the groups with the highest and lowest average YoY inflation rates in Rural, Urban, and Combined areas.
+  
 **Dataset**
 
 The dataset covers January to August 2026 and contains 344 records across 43 groups. It includes the following columns:
@@ -21,11 +23,13 @@ The dataset covers January to August 2026 and contains 344 records across 43 gro
 - Urban Inflation
 - Combined Inflation
 The eight monthly datasets were combined using Power Query. The CPI Index uses 2024 as the base year, and the inflation figures represent year-on-year (YoY) changes. The data was collected from the Ministry of Statistics and Programme Implementation (MoSPI).
+
 **Tools Used**
 
 - MySQL
 - Tableau
 - Microsoft Excel
+  
 **Methodology**
 
 - Data Preparation: Combined the eight monthly datasets using Power Query and prepared the data for analysis.
@@ -35,6 +39,7 @@ The eight monthly datasets were combined using Power Query. The CPI Index uses 2
 - Group Comparison: Compare Rural and Urban inflation differences across groups and months.
 - Rural–Urban Comparison: Identify the groups with the highest and lowest average YoY inflation rates in Rural, Urban, and Combined areas.
 - Visualization: Created a Tableau dashboard to present the trends, comparisons, and key findings.
+  
 **Key Findings**
 
 - CPI Index Trends: By August 2026, all 43 groups showed an increase in the CPI Index in Rural and Combined areas, compared with 41 groups in Urban areas.
