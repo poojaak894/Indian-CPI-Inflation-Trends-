@@ -29,6 +29,7 @@ The eight monthly datasets were combined using Power Query. The CPI Index uses 2
 - MySQL
 - Tableau
 - Microsoft Excel
+- ChatGPT
   
 **Methodology**
 
